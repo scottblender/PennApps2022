@@ -12,3 +12,6 @@ Project Members: Scott Blender and Jackie Gan
 "name":                types.SchemaKind_STRING,
 "healthcare_facility": types.SchemaKind_STRING,
 "patient_list":        types.SchemaKind_LIST,
+
+## Technology
+Sonr and golang
